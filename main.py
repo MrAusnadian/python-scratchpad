@@ -1,4 +1,6 @@
 """
+Random notes based on info in https://www.youtube.com/watch?v=kqtD5dpn9C8
+
 age = 20
 price = 19.95
 first_name = "Will"
